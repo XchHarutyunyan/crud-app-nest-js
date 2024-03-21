@@ -25,8 +25,8 @@ This backend project is scaffolded with:
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/dev-altermeliora/library-crud-challenge-starter.git
-    cd library-crud-challenge-starter
+    git clone https://github.com/XchHarutyunyan/crud-app-nest-js.git
+    cd crud-app-nest-js
     ```
 
 2. **Install Dependencies**
